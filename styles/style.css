@@ -38,6 +38,10 @@
   margin: 0;
   margin-left: 64px;
   width: 730px;
+<<<<<<< HEAD
+=======
+  z-index: 2;
+>>>>>>> b1ef74a81ef53fe31914cb21739d00ebe2450b9f
   font-size: 102px;
   font-weight: 700;
   align-self: center;
@@ -46,8 +50,12 @@
 
 .header__subtitle{
   position:absolute;
+<<<<<<< HEAD
   margin-top: 0;
   margin-bottom: 0;
+=======
+  z-index: 2;
+>>>>>>> b1ef74a81ef53fe31914cb21739d00ebe2450b9f
   width: 388px;
   left: 64px;
   bottom: 30px;
