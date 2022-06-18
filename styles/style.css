@@ -42,6 +42,7 @@
   font-weight: 700;
   align-self: center;
   line-height: 96px;
+  z-index: 2;
 }
 
 .header__subtitle{
@@ -54,6 +55,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  z-index: 2;
 }
 
 .header__link{
@@ -248,7 +250,7 @@
 
 .kaufman__triangle{
   background-image: url(../images/kaufman-triangle.svg);
-  background-size: contain;
+  background-size: cover;
   position: absolute;
   z-index: -1;
   width: 877px;
@@ -265,7 +267,7 @@
 }
 
 .footer__columns{
-  margin: auto;
+  margin: 0 auto;
   width: 90%;
   padding-top: 60px;
   padding-bottom: 40px;
