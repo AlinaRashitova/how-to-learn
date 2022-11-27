@@ -1,7 +1,7 @@
 # How-to-learn
 ## Яндекс Практикум
 
-[https://alinarashitova.github.io/how-to-learn/]DEMO
+[DEMO](https://alinarashitova.github.io/how-to-learn/)
 
 __Описание проекта:__
 How-to-learn - учебный проект, одностраничный сайт-лендинг для отработки навыков и умений в HTML5 и CSS3.
